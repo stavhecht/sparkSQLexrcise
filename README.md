@@ -1,8 +1,6 @@
 # sparkSQLexrcise
-Submitted by:
+Submitted by: 
 
-Nadav Masliah
-ID: 209126887
+Nadav Masliah 209126887
 
-Stav Hecht
-ID: 211794151
+Stav Hecht 211794151
